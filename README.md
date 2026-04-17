@@ -17,7 +17,6 @@ A responsive contacts browser built with **React 18** and **Vite**, powered by t
 ```bash
 # 1. Clone the repository
 git clone <repo-url>
-cd q2-contacts-app
 
 # 2. Install dependencies
 npm install
@@ -27,6 +26,8 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+Or https://contacts-app-xi-eight.vercel.app/ 
 
 ### Build for Production
 
